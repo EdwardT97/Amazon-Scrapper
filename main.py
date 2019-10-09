@@ -1,3 +1,11 @@
+# Name: Edward Tomczak @EdwardT97
+#
+# Created: 10/08/2019 2:54 PM CST
+# Updated: 10/09/2019 9:04 AM CST
+#
+# Program Description: Scans directed amazon URLs for deals and returns
+# price analytics for specified products.
+
 import requests
 from bs4 import BeautifulSoup
 import smtplib
